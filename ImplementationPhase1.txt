@@ -1,0 +1,31 @@
+Implementation Phase Report for The Battle of the Marauders
+We have outlined a tentative plan for implementing The Battle of the Marauders, which will be developed using Python and Pygame. The plan is divided into three phases, and each phase has a set of tasks that need to be completed. We have assigned responsibilities to each team member based on their expertise.
+
+Phase 1: Framework Development
+
+Responsibilities:
+
+Vivek Jariwala: Create the title screen and design the sprites for the characters using Pixilart.com
+Jeffano John: Implement the character creation screen and map system.
+Aahash Srikumar: Implement the game's combat system and design the different moves/abilities of each character.
+Ahmed Elghandour: Develop the programs for storing character information, equipment, and items.
+
+Phase 2: Content Creation
+
+Responsibilities:
+
+Vivek Jariwala: Focus on developing the battle for enemies #1 and #2. 
+Jeffano John: focus on developing the battle for enemies #3 and #4.
+Aahash Srikumar: Implement enemy AI and design the game's combat animations and effects.
+Ahmed Elghandour: Implement the shop feature of the game that allows players to upgrade their abilities/weapons.
+
+Phase 3: Testing and Polish
+
+Responsibilities:
+
+Vivek Jariwala: Test the game's mechanics and optimize the game's performance.
+Jeffano John: Conduct user testing and collect feedback to improve the game's usability and design.
+Aahash Srikumar: Balance the game's difficulty and refine the combat system based on user feedback.
+Ahmed Elghandour: Bug-fixing and final polish of the game.
+
+By following this plan, we believe we can successfully implement The Battle of the Marauders using Python and Pygame.

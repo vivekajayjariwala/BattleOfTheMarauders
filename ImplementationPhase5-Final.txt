@@ -1,0 +1,45 @@
+Implementation Phase Report for The Battle of the Marauders - Version 3
+We have outlined a tentative plan for implementing The Battle of the Marauders, which will be developed using Python and Pygame. The plan is divided into three phases, and each phase has a set of tasks that need to be completed. We have assigned responsibilities to each team member based on their expertise.
+
+Phase 1: Framework Development
+
+Responsibilities:
+
+Vivek Jariwala: Create the title screen and design the sprites for the characters using Pixilart.com - COMPLETED 
+Jeffano John: Implement the character creation screen and map system. - COMPLETED 1/2 (character selection is done, map is in progress)
+Aahash Srikumar: Implement the game's combat system and design the different moves/abilities of each character. - IN PROGRESS
+Ahmed Elghandour: Develop the programs for storing character information, equipment, and items. - IN PROGRESS
+
+Phase 2: Content Creation
+
+Responsibilities:
+
+Vivek Jariwala: Focus on developing the battle for enemies #1 and #2. - IN PROGRESS
+Jeffano John: focus on developing the battle for enemies #3 and #4. - IN PROGRESS
+Aahash Srikumar: Implement enemy AI and design the game's combat animations and effects. - IN PROGRESS
++ From Phase 1: Implement the game's combat system and design the different moves/abilities of each character. - IN PROGRESS
+Ahmed Elghandour: Implement the shop feature of the game that allows players to upgrade their abilities/weapons. - IN PROGRESS
++ From Phase 1: Develop the programs for storing character information, equipment, and items. - IN PROGRESS
+
+Phase 3: Testing and Polish
+
+Responsibilities:
+
+Vivek Jariwala: Created two thirds of the battle system code for all the enemies and design the assets - COMPLETED 
+Jeffano John: Created the code for the map systems and platforming gameplay. - COMPLETED 
+Aahash Srikumar: Created third of the battle system code for all the enemies, design map levels, created code for upgrade system. - COMPLETED
+Ahmed Elghandour: Testing the mechanics of the game - COMPLETED  
+
+Phase 4: Final
+
+Vivek Jariwala: Reduce time to load screens - COMPLETED
+Jeffano John: Change animation stutters - COMPLETED
+Aahash Srikumar: Balance the difficulty - COMPLETED
+Ahmed Elghandour: Continue testing mechanics and providing feedback - COMPLETED 
+
+Phase 5: Overview - this is because the git commits are not very accurate and sometimes we coded from the same laptop 
+
+Vivek Jariwala: Developed 2/3 of the combat system, the initial title screen menu, the story/endgame screens, designed the assets, assisted with upgrade menu
+Jeffano John: Developed 2/3 2D platforming segments of the game, the character selection menu, completed significant debugging, assisted with upgrade menu
+Aahash Srikumar: Developed 1/3 of the combat system, developed 1/3 of the 2D platforming segments of the game, the upgrade system, the shop level 
+Ahmed Elghandour: Assisted with the menu screens, assisted with the debugging, helped with creating the video game difficulty, assisted with the testing 
